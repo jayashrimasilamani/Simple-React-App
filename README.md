@@ -24,4 +24,4 @@ How to run the repo
 2.	Run npm install
 3.	Run npm start to run the app in localhost
 
-
+![ Images of the App](Slide4.png)
