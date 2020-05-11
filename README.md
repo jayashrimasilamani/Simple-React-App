@@ -6,15 +6,15 @@ This is my first react app. That has input box which filters the monster card ac
 
 ### Tools used
 
-Javascript/JSX
-React JS
-HTML5/CSS3
-Tachyons
+* Javascript/JSX
+* React JS
+* HTML5/CSS3
+* Tachyons
 
 ### NPM Packages
-•	Create-React-App
-•	Express
-•	Tachyons
+*	Create-React-App
+*	Express
+*	Tachyons
 
 Deployed in Heroku
 
